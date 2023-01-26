@@ -1,14 +1,19 @@
-# oop-team-profile-generator
+# 🏗️  OOP-team-profile-generator
 
 
-## User Story
 
-AS A manager
+
+----
+## User Story 👇
+
+> AS A manager
 I WANT to generate a webpage that displays my team's basic info
 SO THAT I have quick access to their emails and GitHub profiles
 
 
-## Acceptance Criteria
+
+---
+## 📋 Acceptance Criteria
 
 GIVEN a command-line application that accepts user input
 
@@ -46,33 +51,57 @@ THEN I exit the application, and the HTML is generated
 
 
 
-## Installation
 
-Install nmp 
+---
+## 📐 Installation
 
-Install Inquirer 
+* Install nmp 
 
-Install Jest 
+* Install Inquirer 
 
-
-
-## Test
-
-When the user starts the program
-
-Then manager information is requested
-
-When the user select to enter data
-
-Then user enters data
-
-Then the HTML is generated
+* Install Jest 
 
 
-## Mock-Up
+
+
+---
+## 💻 Test 
+
+>When the user starts the program
+>
+>Then manager information is requested
+>
+>When the user select to enter data
+>
+>Then user enters data
+>
+>Then the HTML is generated
+
+
+
+## Usage Profile Generator
+
+1️⃣ `Open index.js integrated Terminal`
+
+2️⃣ `Type node index.js on integrated Terminal`
+
+3️⃣ `Select the profile you want to build`
+
+4️⃣ `Once you have finished building all the profiles desired, select Finish and generate HTML, and open the index.html live server to see the results`
+
+* ` 🔑 It's very IMPORTANT❗ that you build as many profiles before         selecting Finish and generate HTML`
+
+
+
+---
+## Mock-Up 📷 
+
+
 
 
 The following image shows a mock-up of the generated HTML’s appearance and functionality:
+
+
 
 ![My screenshot](ScreenShot.png)
 
